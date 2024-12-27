@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fNote</string>
+    <string name="icon">icon</string>
+    <string name="all_notes">All notes</string>
+    <string name="title">Title</string>
+    <string name="type_your_note_here">Type your note here</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
